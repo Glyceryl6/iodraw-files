@@ -36,7 +36,7 @@
             <mxPoint x="640" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7XLh0AAl3wx8bKOwWhe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;邮箱已注册？&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="s7XLh0AAl3wx8bKOwWhe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;邮箱已被注册？&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="690" y="205" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
