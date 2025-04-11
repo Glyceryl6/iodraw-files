@@ -36,8 +36,14 @@
             <mxPoint x="640" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s7XLh0AAl3wx8bKOwWhe-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s7XLh0AAl3wx8bKOwWhe-12" target="s7XLh0AAl3wx8bKOwWhe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s7XLh0AAl3wx8bKOwWhe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;邮箱已被注册？&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="690" y="205" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s7XLh0AAl3wx8bKOwWhe-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="710" y="60" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
